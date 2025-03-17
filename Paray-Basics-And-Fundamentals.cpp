@@ -150,6 +150,5 @@ int main (){
 
     cout << "Program exited successfully. Thank you!"; //Exit message
     
-    // new comment 
     return 0; 
 }
